@@ -22,15 +22,15 @@ st.markdown("""
 # Banco de dados dos últimos títulos (Exemplos reais)
 dados_times = {
     "Flamengo": {
-        "titulo": "Copa do Brasil 2024",
-        "data": "10/11/2024",
-        "local": "Belo Horizonte, MG",
-        "estadio": "Arena MRV",
-        "placar": "Atlético-MG 0 x 1 Flamengo",
-        "publico": "44.844 presentes",
-        "campeonato": "Copa do Brasil",
+        "titulo": "Campeão Carioca de 2026",
+        "data": "08/03/2026",
+        "local": "Rio de Janeiro, RJ",
+        "estadio": "Estádio Mario Filho - Maracanã",
+        "placar": "Flamengo 0 (5) X (4) 0 Fluminense",
+        "publico": "69.315 presentes",
+        "campeonato": "Campeonato Carioca de 2026",
         "cor": "#ec1c24",
-        "img_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2024/11/11/208719527-flamengo-levanta-a-taca-da-copa-do-brasil-pedro-vilelagetty-images.jpg" # Substitua pelo link da imagem
+        "img_url": "https://media.antenadosnofutebol.com.br/wp-content/uploads/sites/31/2026/03/08212309/AGIF26030820484728-4000x2667.webp" # Substitua pelo link da imagem
     },
     "Santos": {
         "titulo": "Campeonato Paulista 2016",
