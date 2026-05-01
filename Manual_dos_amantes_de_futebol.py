@@ -33,37 +33,37 @@ dados_times = {
         "img_url": "https://media.antenadosnofutebol.com.br/wp-content/uploads/sites/31/2026/03/08212309/AGIF26030820484728-4000x2667.webp" # Substitua pelo link da imagem
     },
     "Santos": {
-        "titulo": "Campeonato Paulista 2016",
+        "titulo": "Campeão Paulista 2016",
         "data": "08/05/2016",
         "local": "Santos, SP",
         "estadio": "Vila Belmiro",
         "placar": "Santos 1 x 0 Audax",
         "publico": "16.018 presentes",
-        "campeonato": "Campeonato Paulista",
+        "campeonato": "Campeonato Paulista 2016",
         "cor": "#000000",
-        "img_url": "https://via.placeholder.com/600x300?text=Logo+Santos"
+        "img_url": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2016/05/08/santosfestaaleviannaagenciaelevengp.jpg"
     },
     "Internacional": {
-        "titulo": "Recopa Sul-Americana 2011",
-        "data": "24/08/2011",
+        "titulo": "Campeão Gaucho 2025",
+        "data": "16/03/2025",
         "local": "Porto Alegre, RS",
         "estadio": "Beira-Rio",
-        "placar": "Internacional 3 x 1 Independiente",
-        "publico": "39.069 presentes",
-        "campeonato": "Recopa Sul-Americana",
+        "placar": "(3) Internacional 1 X 1 Grêmio (1)",
+        "publico": "50.794 presentes",
+        "campeonato": "Campeonato Gaucho 2025",
         "cor": "#e30613",
-        "img_url": "https://via.placeholder.com/600x300?text=Logo+Internacional"
+        "img_url": "https://jpimg.com.br/uploads/2025/03/campeonato-gaucho.jpg"
     },
     "Cruzeiro": {
-        "titulo": "Copa do Brasil 2018",
-        "data": "17/10/2018",
-        "local": "São Paulo, SP",
-        "estadio": "Neo Química Arena",
-        "placar": "Corinthians 1 x 2 Cruzeiro",
-        "publico": "45.978 presentes",
-        "campeonato": "Copa do Brasil",
+        "titulo": "Campeão Mineiro 2026",
+        "data": "08/03/2026",
+        "local": "Belo Horizonte, MG",
+        "estadio": "Mineirão",
+        "placar": "1 Cruzeiro X 0 Atlético-MG",
+        "publico": "49.675 presentes",
+        "campeonato": "Campeonato Mineiro 2026",
         "cor": "#005baa",
-        "img_url": "https://via.placeholder.com/600x300?text=Logo+Cruzeiro"
+        "img_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=950,quality=75,fit=pad,format=webp/uploads/2026/03/Cruzeiro-campeao-mineiro-scaled-aspect-ratio-512-320.jpg"
     }
 }
 
