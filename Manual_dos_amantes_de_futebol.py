@@ -30,7 +30,7 @@ dados_times = {
         "publico": "44.844 presentes",
         "campeonato": "Copa do Brasil",
         "cor": "#ec1c24",
-        "img_url": "https://via.placeholder.com/600x300?text=Logo+Flamengo" # Substitua pelo link da imagem
+        "img_url": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2024/11/11/208719527-flamengo-levanta-a-taca-da-copa-do-brasil-pedro-vilelagetty-images.jpg" # Substitua pelo link da imagem
     },
     "Santos": {
         "titulo": "Campeonato Paulista 2016",
