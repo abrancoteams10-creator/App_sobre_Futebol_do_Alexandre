@@ -75,7 +75,8 @@ dados_times = {
         "campeonato": "Campeonato Brasileiro 2024",
         "cor": "#005baa",
         "img_url":"https://lncimg.lance.com.br/uploads/2024/12/botafogo-campeao-brasileiro-scaled-aspect-ratio-512-320.jpg"
- }
+    },
+}
 
 # Título do Site
 st.title("⚽ Manual do Amante de Futebol")
