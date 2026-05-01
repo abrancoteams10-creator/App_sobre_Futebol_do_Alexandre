@@ -1,2 +1,6 @@
 # App_sobre_Futebol_do_Alexandre
-Consta em um aplicativo sobre futebol que busca informar e divertir seus usuários.
+import streamlit as st
+
+st.title('Qual é o último título de cada clube?')
+
+st.write('Esse aplicativo, busca informar e divertir os usúarios, dando informações sobre os times e seus ultimos títulos')
