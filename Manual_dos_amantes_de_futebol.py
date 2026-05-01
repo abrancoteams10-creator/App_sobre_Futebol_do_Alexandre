@@ -64,8 +64,18 @@ dados_times = {
         "campeonato": "Campeonato Mineiro 2026",
         "cor": "#005baa",
         "img_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=950,quality=75,fit=pad,format=webp/uploads/2026/03/Cruzeiro-campeao-mineiro-scaled-aspect-ratio-512-320.jpg"
-    }
-}
+    },
+    "Botafogo": {
+        "titulo": "Campeão Brasileiro 2024",
+        "data": "08/12/2024",
+        "local": "Rio de Janeiro, RJ",
+        "estadio": "Estádio Nilton Santos"
+        "placar": "2 Botafogo X 1 São Paulo",
+        "publico": "41.986 presentes",
+        "campeonato": "Campeonato Brasileiro 2024",
+        "cor": "#005baa",
+        "img_url":"https://lncimg.lance.com.br/uploads/2024/12/botafogo-campeao-brasileiro-scaled-aspect-ratio-512-320.jpg"
+ }
 
 # Título do Site
 st.title("⚽ Manual do Amante de Futebol")
