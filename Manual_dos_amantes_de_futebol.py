@@ -69,7 +69,7 @@ dados_times = {
         "titulo": "Campeão Brasileiro 2024",
         "data": "08/12/2024",
         "local": "Rio de Janeiro, RJ",
-        "estadio": "Estádio Nilton Santos"
+        "estadio": "Estádio Nilton Santos",
         "placar": "2 Botafogo X 1 São Paulo",
         "publico": "41.986 presentes",
         "campeonato": "Campeonato Brasileiro 2024",
