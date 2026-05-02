@@ -73,7 +73,7 @@ dados_times = {
         "placar": "2 Botafogo X 1 São Paulo",
         "publico": "41.986 presentes",
         "campeonato": "Campeonato Brasileiro 2024",
-        "musica": "hino-do-botafogo.mp3"
+        "musica": "hino-do-botafogo.mp3",
         "cor": "#005baa",     
         "img_url":"https://lncimg.lance.com.br/uploads/2024/12/botafogo-campeao-brasileiro-scaled-aspect-ratio-512-320.jpg"
     },
