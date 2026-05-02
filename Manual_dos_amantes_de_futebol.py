@@ -73,6 +73,7 @@ dados_times = {
         "placar": "2 Botafogo X 1 São Paulo",
         "publico": "41.986 presentes",
         "campeonato": "Campeonato Brasileiro 2024",
+        "musica": "hino-do-botafogo.mp3"
         "cor": "#005baa",     
         "img_url":"https://lncimg.lance.com.br/uploads/2024/12/botafogo-campeao-brasileiro-scaled-aspect-ratio-512-320.jpg"
     },
@@ -87,7 +88,7 @@ time_escolhido = st.selectbox("Selecione um clube:", list(dados_times.keys()))
 
 if time_escolhido:
     dados = dados_times[time_escolhido]
-    st.audio("hino-do-botafogo.mp3", format="audio/mp3")
+    st.audio(info["musica"], format="audio/mp3")
     st.divider()
     
     # Exibição de Imagem (Aqui você pode colocar a foto da taça ou do time)
