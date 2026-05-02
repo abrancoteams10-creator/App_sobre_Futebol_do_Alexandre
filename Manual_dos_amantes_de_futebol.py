@@ -87,12 +87,7 @@ time_escolhido = st.selectbox("Selecione um clube:", list(dados_times.keys()))
 
 if time_escolhido:
     dados = dados_times[time_escolhido]
-    if st.session_state.time:
-        dados = dados_times[st.session_state.time]
-    
-    # Esta linha executa o áudio baseado no que está no dicionário do time
-    st.audio(info["musica"], format="audio/mp3"),
-    
+    st.audio(info["musica"], format="audio/mp3")
     st.divider()
     
     # Exibição de Imagem (Aqui você pode colocar a foto da taça ou do time)
