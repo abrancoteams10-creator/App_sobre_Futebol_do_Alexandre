@@ -30,18 +30,20 @@ dados_times = {
         "publico": "69.315 presentes",
         "campeonato": "Campeonato Carioca de 2026",
         "cor": "#ec1c24",
+        "musica": "hino-flamengo.mp3",
         "img_url": "https://media.antenadosnofutebol.com.br/wp-content/uploads/sites/31/2026/03/08212309/AGIF26030820484728-4000x2667.webp" # Substitua pelo link da imagem
     },
     "Santos": {
-        "titulo": "Campeão Paulista 2016",
-        "data": "08/05/2016",
+        "titulo": "Campeão da Segunda Divisaõ do Brasileirão 2024",
+        "data": "17/11/2024",
         "local": "Santos, SP",
         "estadio": "Vila Belmiro",
-        "placar": "Santos 1 x 0 Audax",
-        "publico": "16.018 presentes",
-        "campeonato": "Campeonato Paulista 2016",
+        "placar": "Santos 0 X 2 CRB",
+        "publico": "15.750 presentes",
+        "campeonato": "Campeonato Brasileiro Série B 2024",
         "cor": "#000000",
-        "img_url": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2016/05/08/santosfestaaleviannaagenciaelevengp.jpg"
+        "musica": "hino-santos-fc.mp3",
+        "img_url": "https://agenciaesporte.com.br/wp-content/uploads/2024/11/santos-campeao-B.jpeg"
     },
     "Internacional": {
         "titulo": "Campeão Gaucho 2025",
@@ -52,6 +54,7 @@ dados_times = {
         "publico": "50.794 presentes",
         "campeonato": "Campeonato Gaucho 2025",
         "cor": "#e30613",
+        "musica": "hino-do-internacional.mp3",
         "img_url": "https://jpimg.com.br/uploads/2025/03/campeonato-gaucho.jpg"
     },
     "Cruzeiro": {
@@ -59,10 +62,11 @@ dados_times = {
         "data": "08/03/2026",
         "local": "Belo Horizonte, MG",
         "estadio": "Mineirão",
-        "placar": "1 Cruzeiro X 0 Atlético-MG",
+        "placar": "Cruzeiro 1 X 0 Atlético-MG",
         "publico": "49.675 presentes",
         "campeonato": "Campeonato Mineiro 2026",
         "cor": "#005baa",
+        "musica": "hino-cruzeiro.mp3",
         "img_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=950,quality=75,fit=pad,format=webp/uploads/2026/03/Cruzeiro-campeao-mineiro-scaled-aspect-ratio-512-320.jpg"
     },
     "Botafogo": {
@@ -70,7 +74,7 @@ dados_times = {
         "data": "08/12/2024",
         "local": "Rio de Janeiro, RJ",
         "estadio": "Estádio Nilton Santos",
-        "placar": "2 Botafogo X 1 São Paulo",
+        "placar": "Botafogo 2 X 1 São Paulo",
         "publico": "41.986 presentes",
         "campeonato": "Campeonato Brasileiro 2024",
         "musica": "hino-do-botafogo.mp3",
