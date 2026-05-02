@@ -88,8 +88,8 @@ time_escolhido = st.selectbox("Selecione um clube:", list(dados_times.keys()))
 
 if time_escolhido:
     dados = dados_times[time_escolhido]
-     print("Clique abaixo para ouvir o hino do clube")
     st.audio(dados["musica"], format="audio/mp3")
+    print("Clique no botão acima para ouvir o hino do clube")
     st.divider()
     
     # Exibição de Imagem (Aqui você pode colocar a foto da taça ou do time)
