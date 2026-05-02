@@ -74,7 +74,7 @@ dados_times = {
         "publico": "41.986 presentes",
         "campeonato": "Campeonato Brasileiro 2024",
         "cor": "#005baa",
-       if st.session_state.time:
+if st.session_state.time:
     info = dados_times[st.session_state.time]
     
     # Esta linha executa o áudio baseado no que está no dicionário do time
