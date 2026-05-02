@@ -88,7 +88,7 @@ time_escolhido = st.selectbox("Selecione um clube:", list(dados_times.keys()))
 
 if time_escolhido:
     dados = dados_times[time_escolhido]
-    print("Clique abaixo para ouvir o hino do clube")
+        print("Clique abaixo para ouvir o hino do clube")
     st.audio(dados["musica"], format="audio/mp3")
     st.divider()
     
