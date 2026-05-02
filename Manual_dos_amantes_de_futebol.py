@@ -74,7 +74,7 @@ dados_times = {
         "publico": "41.986 presentes",
         "campeonato": "Campeonato Brasileiro 2024",
         "cor": "#005baa",
-        "musica": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", # Substitua pelo link do hino",
+       
         "img_url":"https://lncimg.lance.com.br/uploads/2024/12/botafogo-campeao-brasileiro-scaled-aspect-ratio-512-320.jpg"
     },
 }
